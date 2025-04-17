@@ -1,5 +1,6 @@
-/* 
-
+/* Primary class utilizing a supporting method for processing an
+    array with a counting sort, repeated over a span of a
+    nonspecified range of digit places.
  */
 
 import java.util.*;

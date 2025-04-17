@@ -49,6 +49,7 @@ public class IntegerRadixSort {
         int place = 1;
         int stepCounter = 1;
 
+        // Integer division ensures 0 check.
         while (maximumValue / place > 0) {
             radixSortProcess(array, place, stepCounter);
             place *= 10;

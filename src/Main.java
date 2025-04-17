@@ -1,3 +1,7 @@
+/* Main runner class used by my radix sort class to test
+    its functionality with two test arrays.
+ */
+
 import java.util.Arrays;
 
 public class Main {
